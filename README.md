@@ -20,6 +20,8 @@ Live Dashboard: https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysi
 - **Hacking dominates:** hacking/IT incidents are 4,898 breaches (about 61%), have the highest median size (8,132), and account for about 1.01 billion people affected.
 - **Massachusetts looks like the nation overall:** median 4,049 vs. 4,035 for the rest of the US, ranking 8th with 245 breaches. Providers are 167 of the 245 (68%), with a smaller median (2,739).
 - **Typical breach size rose after 2018:** medians were about 2,000 to 2,700 through 2018 and 4,000 to 8,000 from 2019 on. This data cannot show why (more breaches, more reporting, or both).
+- **Live Dashboard:** https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysis/images/dashboard.html
+
 
 ## Limitations
 - Only breaches affecting 500+ people are listed, so this describes large breaches only.
