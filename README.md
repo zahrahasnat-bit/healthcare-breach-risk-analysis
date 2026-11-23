@@ -6,8 +6,8 @@ Analysis of large healthcare data breaches reported to the U.S. HHS Office for C
 - [x] Data cleaning pipeline
 - [x] SQL analysis
 - [x] Statistics (median vs. mean)
-- [ ] Dashboard
-- [ ] Risk brief
+- [x] Dashboard
+- [x] Risk brief
 
 ## Data
 Source: HHS OCR Breach Portal (breaches affecting 500+ people), downloaded 2026-11-23. Data runs through 2026-10-16.
@@ -44,3 +44,6 @@ Raw files are in `data/raw`, cleaned data in `data/clean`. After cleaning: 8,087
 - `src/stats.py`: median vs. mean by entity type, year, breach type, and state
 - `src/histogram.py`: log-scale histogram of breach sizes (saved to `images/`)
 - `docs/cleaning_log.md` (what changed) and `docs/cleaning_decisions.md` (why)
+
+- `src/dashboard.py`: builds the interactive Plotly dashboard (`images/dashboard.html`, open in a browser)
+- `docs/brief.md`: one-page risk brief
