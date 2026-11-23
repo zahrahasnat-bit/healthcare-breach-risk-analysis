@@ -12,7 +12,6 @@ Analysis of large healthcare data breaches reported to the U.S. HHS Office for C
 ## Data
 Source: HHS OCR Breach Portal (breaches affecting 500+ people), downloaded 2026-11-23. Data runs through 2026-10-16.
 Raw files are in `data/raw`, cleaned data in `data/clean`. After cleaning: 8,087 breaches.
-Live Dashboard: https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysis/images/dashboard.html
 
 ## Key findings
 - **Mean vs. median:** the typical (median) breach affects 4,036 people, but the mean is 137,328. A few mega-breaches (Change Healthcare, about 192.7 million) pull the mean up, so the median describes a typical incident better.
@@ -21,7 +20,6 @@ Live Dashboard: https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysi
 - **Massachusetts looks like the nation overall:** median 4,049 vs. 4,035 for the rest of the US, ranking 8th with 245 breaches. Providers are 167 of the 245 (68%), with a smaller median (2,739).
 - **Typical breach size rose after 2018:** medians were about 2,000 to 2,700 through 2018 and 4,000 to 8,000 from 2019 on. This data cannot show why (more breaches, more reporting, or both).
 - **Live Dashboard:** https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysis/images/dashboard.html
-
 
 ## Limitations
 - Only breaches affecting 500+ people are listed, so this describes large breaches only.
