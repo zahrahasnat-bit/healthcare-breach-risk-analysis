@@ -12,6 +12,7 @@ Analysis of large healthcare data breaches reported to the U.S. HHS Office for C
 ## Data
 Source: HHS OCR Breach Portal (breaches affecting 500+ people), downloaded 2026-11-23. Data runs through 2026-10-16.
 Raw files are in `data/raw`, cleaned data in `data/clean`. After cleaning: 8,087 breaches.
+Live Dashboard: https://zahrahasnat-bit.github.io/healthcare-breach-risk-analysis/images/dashboard.html
 
 ## Key findings
 - **Mean vs. median:** the typical (median) breach affects 4,036 people, but the mean is 137,328. A few mega-breaches (Change Healthcare, about 192.7 million) pull the mean up, so the median describes a typical incident better.
