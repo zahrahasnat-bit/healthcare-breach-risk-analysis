@@ -15,7 +15,7 @@ Raw files are in `data/raw`, cleaned data in `data/clean`. After cleaning: 8,087
 
 ## Key findings
 - **Mean vs. median:** the typical (median) breach affects 4,036 people, but the mean is 137,328. A few mega-breaches (Change Healthcare, about 192.7 million) pull the mean up, so the median describes a typical incident better.
-- **Business associates concentrate risk:** they are about 15% of breaches (1,244 of 8,087) but account for the largest total, about 545 million people affected. Their median is 5,890 vs. 3,915 for healthcare providers.
+- **Business associates concentrate risk:** they are about 15% of breaches (1,244 of 8,087) but account for about 49% of all people affected (about 545 million). Their median is 5,890 vs. 3,915 for healthcare providers.
 - **Hacking dominates:** hacking/IT incidents are 4,898 breaches (about 61%), have the highest median size (8,132), and account for about 1.01 billion people affected.
 - **Massachusetts looks like the nation overall:** median 4,049 vs. 4,035 for the rest of the US, ranking 8th with 245 breaches. Providers are 167 of the 245 (68%), with a smaller median (2,739).
 - **Typical breach size rose after 2018:** medians were about 2,000 to 2,700 through 2018 and 4,000 to 8,000 from 2019 on. This data cannot show why (more breaches, more reporting, or both).
